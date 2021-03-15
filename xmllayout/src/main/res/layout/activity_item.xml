@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--     TODO: 更改群头像-->
     <RelativeLayout
         android:id="@+id/layout1"
         android:layout_width="match_parent"
