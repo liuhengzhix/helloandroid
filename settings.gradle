@@ -1,3 +1,4 @@
+include ':relativelayout'
 include ':xmllayout'
 include ':app'
 rootProject.name = "HelloAndroid"
