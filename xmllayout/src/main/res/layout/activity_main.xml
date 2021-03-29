@@ -36,6 +36,7 @@
             android:textSize="50px" />
 
         <EditText
+            android:id="@+id/et_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
@@ -57,6 +58,7 @@
             android:textSize="50px" />
 
         <EditText
+            android:id="@+id/et_pwd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
