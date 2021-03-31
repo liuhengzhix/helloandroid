@@ -16,7 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image1"
-            android:text="谷歌内部交流群"
+            android:text="@string/google"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="190dp"
             android:layout_toRightOf="@id/name1"
-            android:text="昨天"
+            android:text="@string/time_yes"
             android:textSize="45px" />
 
         <ImageView
@@ -42,7 +42,7 @@
             android:layout_below="@id/name1"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image1"
-            android:text="三少爷:3天之后收购腾讯、百度、阿..."
+            android:text="@string/three"
             android:textSize="45px" />
     </RelativeLayout>
 
@@ -70,7 +70,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image2"
-            android:text="收购万达讨论组"
+            android:text="@string/wan_da"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="190dp"
             android:layout_toRightOf="@id/name2"
-            android:text="昨天"
+            android:text="@string/time_yes"
             android:textSize="45px" />
 
         <ImageView
@@ -95,7 +95,7 @@
             android:layout_below="@id/name2"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image2"
-            android:text="王撕葱:明天把万达股票全部抛出,..."
+            android:text="@string/wang_master"
             android:textSize="45px" />
     </RelativeLayout>
 
@@ -123,7 +123,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image3"
-            android:text="509总统套房"
+            android:text="@string/five_zero_nine"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -133,7 +133,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="205dp"
             android:layout_toRightOf="@id/name3"
-            android:text="10:00"
+            android:text="@string/time_10"
             android:textSize="45px" />
 
         <ImageView
@@ -148,7 +148,7 @@
             android:layout_below="@id/name3"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image3"
-            android:text="aka_AK47:有没有人洗衣服?.........."
+            android:text="@string/aka"
             android:textSize="45px" />
     </RelativeLayout>
 
@@ -176,7 +176,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image4"
-            android:text="京城倒爷元老群"
+            android:text="@string/beiJing"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -186,7 +186,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="185dp"
             android:layout_toRightOf="@id/name4"
-            android:text="08:00"
+            android:text="@string/time_8"
             android:textSize="45px" />
 
         <ImageView
@@ -201,7 +201,7 @@
             android:layout_below="@id/name4"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image4"
-            android:text="李三爷:八成新的金丝楠木椅,老佛爷坐过的..."
+            android:text="@string/li_three"
             android:textSize="45px" />
     </RelativeLayout>
 
@@ -229,7 +229,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image5"
-            android:text="叙利亚暑期兼职"
+            android:text="@string/xu_li_ya"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -239,7 +239,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="185dp"
             android:layout_toRightOf="@id/name5"
-            android:text="23:00"
+            android:text="@string/time_23"
             android:textSize="45px" />
 
         <ImageView
@@ -254,7 +254,7 @@
             android:layout_below="@id/name5"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image5"
-            android:text="二表哥:睡觉吧表弟太困了,明天再打..."
+            android:text="@string/er_ge"
             android:textSize="45px" />
     </RelativeLayout>
 
@@ -282,7 +282,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toRightOf="@id/image6"
-            android:text="泰山会"
+            android:text="@string/tai"
             android:textColor="@color/black"
             android:textSize="45px" />
 
@@ -292,7 +292,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="250dp"
             android:layout_toRightOf="@id/name6"
-            android:text="20:00"
+            android:text="@string/time_20"
             android:textSize="45px" />
 
         <ImageView
@@ -307,7 +307,7 @@
             android:layout_below="@id/name6"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@id/image6"
-            android:text="Robin Li:无人汽车领域我想坐老大的位子..."
+            android:text="@string/Robin"
             android:textSize="45px" />
     </RelativeLayout>
 

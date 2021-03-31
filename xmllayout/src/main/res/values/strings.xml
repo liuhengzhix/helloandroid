@@ -3,4 +3,21 @@
     <string name="start">播放/暂停</string>
     <string name="bt_register">注册</string>
     <string name="bt_login">登录</string>
+    <string name="time_8">08:00</string>
+    <string name="time_10">10:00</string>
+    <string name="time_20">20:00</string>
+    <string name="time_23">23:00</string>
+    <string name="time_yes">昨天</string>
+    <string name="google">谷歌内部交流群</string>
+    <string name="three">三少爷:3天之后收购腾讯、百度、阿…</string>
+    <string name="wan_da">收购万达讨论组</string>
+    <string name="wang_master">王撕葱:明天把万达股票全部抛出,…</string>
+    <string name="five_zero_nine">509总统套房</string>
+    <string name="aka">aka_AK47:有没有人洗衣服?..........</string>
+    <string name="beiJing">京城倒爷元老群</string>
+    <string name="li_three">李三爷:八成新的金丝楠木椅,老佛爷坐过的…</string>
+    <string name="xu_li_ya">叙利亚暑期兼职</string>
+    <string name="er_ge">二表哥:睡觉吧表弟太困了,明天再打…</string>
+    <string name="tai">泰山会</string>
+    <string name="Robin">Robin Li:无人汽车领域我想坐老大的位子…</string>
 </resources>
