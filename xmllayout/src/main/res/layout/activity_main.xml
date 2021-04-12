@@ -79,7 +79,7 @@
             android:layout_marginLeft="61dp"
             android:layout_marginRight="100dp"
             android:layout_weight="1"
-            android:background="@drawable/shape_button"
+            android:background="@drawable/select_login"
             android:text="@string/bt_login"
             android:textSize="50px" />
 
